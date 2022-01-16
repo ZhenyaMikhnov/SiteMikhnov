@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin:  0;
+    box-sizing: border-box;
+}
+body {
+    font-size: 20px;
+    font-family: 'Readex Pro', sans-serif;
+    background-color:#EEEEEE;
+    color:#0F0E0E;
+    background-size:  50%;
+}
+h1{
+    color: #0F0E0E;
+    font-size: 60px;
+    font-family: 'Readex Pro', sans-serif;
+
+}    
+p { 
+    color: #0F0E0E;
+    font-size: 30px;
+    margin: 30px 0  ;
+}
+div {
+    width: 60%;
+    margin: auto;
+    padding:30px;
+    background-color:#8B9A46;
+}
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #541212;
+    margin: 20px 10px;
+    display: inline-block;
+    border-bottom: 1px solid transparent;
+
+}
+a:hover {
+border-bottom-color: #EEEEEE;
+
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+
